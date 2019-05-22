@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5816ef5b-e93a-4bed-bacc-90fa56639a3a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1776784252">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1160" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1160" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="44" />
+          <entry key="js" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="44" />
+          <entry key="JavaScript" value="20" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.12173203">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextColor.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+                  <folding>
+                    <marker date="1548448935553" expanded="true" signature="0:161" ph="/* Converted from UnityScript to C## at http://www.M2H.nl/files/js_to_c.php - by Mike Hergaarden ... */" />
+                    <marker date="1548448935553" expanded="false" signature="169:207" ph="..." />
+                    <marker date="1548448935553" expanded="true" signature="312:368" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextFadeOut.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+                  <folding>
+                    <marker date="1549691659905" expanded="true" signature="0:161" ph="/* Converted from UnityScript to C## at http://www.M2H.nl/files/js_to_c.php - by Mike Hergaarden ... */" />
+                    <marker date="1549691659905" expanded="false" signature="169:207" ph="..." />
+                    <marker date="1549691659905" expanded="true" signature="250:488" ph="{...}" />
+                    <marker date="1549691659905" expanded="true" signature="324:486" ph="{...}" />
+                    <marker date="1549691659905" expanded="true" signature="341:483" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/FruitDispenser.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" selection-start-line="17" selection-end-line="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/SharedSettings.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+                  <folding>
+                    <marker date="1548449644513" expanded="false" signature="6:78" ph="..." />
+                    <marker date="1548449644513" expanded="true" signature="124:162" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/MouseControl.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="552">
+                  <caret line="115" selection-start-line="115" selection-end-line="115" />
+                  <folding>
+                    <marker date="1554499951232" expanded="true" signature="0:161" ph="/* Converted from UnityScript to C## at http://www.M2H.nl/files/js_to_c.php - by Mike Hergaarden ... */" />
+                    <marker date="1554499951232" expanded="false" signature="169:207" ph="..." />
+                    <marker date="1554499951232" expanded="true" signature="251:9789" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="253:455" ph="/* control by mouse - can be easly translate to control by touch etc ... */" />
+                    <marker date="1554499951232" expanded="true" signature="1548:1643" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="1553:1641" ph="/* textmeshnew=this.GetComponent&lt;&quot;EasyFontTextMesh&quot;&gt;(); ... */" />
+                    <marker date="1554499951232" expanded="true" signature="1658:1924" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="1787:1922" ph="/* PlayerPrefs.SetInt(&quot;highscoreCurrent&quot;, best); ... */" />
+                    <marker date="1554499951232" expanded="true" signature="1955:2279" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="2308:2539" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="2593:5128" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="2653:4800" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="3606:3658" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="3705:3758" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="3760:3931" ph="/* if bomb inc points ... */" />
+                    <marker date="1554499951232" expanded="true" signature="3979:4301" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="4080:4273" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="4320:4768" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="4377:4453" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="4508:4752" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="4877:4921" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="5000:5043" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="5206:5310" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="5260:5307" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="5376:5694" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="5395:5552" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="5741:5920" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="5955:7669" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="6001:6164" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="6209:6675" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="6467:6508" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="6548:6620" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="6765:7375" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="6800:7367" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="6847:7362" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="7281:7325" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="7502:7567" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="7686:9626" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="7688:8460" ph="/* if(shake_intensity &gt; 0) ... */" />
+                    <marker date="1554499951232" expanded="true" signature="8575:8657" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="8707:8790" ph="{...}" />
+                    <marker date="1554499951232" expanded="true" signature="9628:9787" ph="/* void  Shake (){ ... */" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/GameGUI.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+                  <folding>
+                    <marker date="1549691592430" expanded="true" signature="0:161" ph="/* Converted from UnityScript to C## at http://www.M2H.nl/files/js_to_c.php - by Mike Hergaarden ... */" />
+                    <marker date="1549691592430" expanded="false" signature="169:207" ph="..." />
+                    <marker date="1549691592430" expanded="true" signature="457:530" ph="{...}" />
+                    <marker date="1549691592430" expanded="true" signature="490:528" ph="{...}" />
+                    <marker date="1549691592430" expanded="true" signature="552:698" ph="{...}" />
+                    <marker date="1549691592430" expanded="true" signature="714:2440" ph="{...}" />
+                    <marker date="1549691592430" expanded="true" signature="752:2219" ph="{...}" />
+                    <marker date="1549691592430" expanded="true" signature="858:2216" ph="{...}" />
+                    <marker date="1549691592430" expanded="true" signature="918:2212" ph="{...}" />
+                    <marker date="1549691592430" expanded="true" signature="1025:1301" ph="{...}" />
+                    <marker date="1549691592430" expanded="true" signature="1037:1135" ph="/* GameObject.Find(&quot;FruitDispenser&quot;).GetComponent&lt;BoxCollider&gt;().active=false; ... */" />
+                    <marker date="1549691592430" expanded="true" signature="1334:1749" ph="{...}" />
+                    <marker date="1549691592430" expanded="true" signature="1539:1589" ph="{...}" />
+                    <marker date="1549691592430" expanded="true" signature="1789:1949" ph="{...}" />
+                    <marker date="1549691592430" expanded="true" signature="1982:2197" ph="{...}" />
+                    <marker date="1549691592430" expanded="true" signature="2024:2074" ph="{...}" />
+                    <marker date="1549691592430" expanded="true" signature="2259:2438" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/GUIRatioFix.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+                  <folding>
+                    <marker date="1549691631753" expanded="false" signature="6:44" ph="..." />
+                    <marker date="1549691631753" expanded="true" signature="157:339" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextFadeOut.js">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/EndLevelScript.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+                  <folding>
+                    <marker date="1554512879268" expanded="false" signature="6:44" ph="..." />
+                    <marker date="1554512879268" expanded="true" signature="89:3310" ph="{...}" />
+                    <marker date="1554512879268" expanded="true" signature="474:573" ph="{...}" />
+                    <marker date="1554512879268" expanded="true" signature="595:3096" ph="{...}" />
+                    <marker date="1554512879268" expanded="true" signature="711:2369" ph="{...}" />
+                    <marker date="1554512879268" expanded="true" signature="719:922" ph="/* PlayerPrefs.SetInt(&quot;highScore&quot;, 0); ... */" />
+                    <marker date="1554512879268" expanded="true" signature="1160:1513" ph="{...}" />
+                    <marker date="1554512879268" expanded="true" signature="1564:1846" ph="{...}" />
+                    <marker date="1554512879268" expanded="true" signature="2045:2199" ph="{...}" />
+                    <marker date="1554512879268" expanded="true" signature="2203:2361" ph="/* GetComponent&lt;Frenzy&gt;().enabled = false; ... */" />
+                    <marker date="1554512879268" expanded="true" signature="2396:3093" ph="{...}" />
+                    <marker date="1554512879268" expanded="true" signature="2435:3089" ph="{...}" />
+                    <marker date="1554512879268" expanded="true" signature="2549:3084" ph="{...}" />
+                    <marker date="1554512879268" expanded="true" signature="2613:2697" ph="{...}" />
+                    <marker date="1554512879268" expanded="true" signature="2732:2895" ph="{...}" />
+                    <marker date="1554512879268" expanded="true" signature="2929:3078" ph="{...}" />
+                    <marker date="1554512879268" expanded="true" signature="3006:3061" ph="/* Time.timeScale=1; ... */" />
+                    <marker date="1554512879268" expanded="true" signature="3128:3307" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/MouseControl.js">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/PrepareLevel.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+                  <folding>
+                    <marker date="1549691115815" expanded="false" signature="6:44" ph="..." />
+                    <marker date="1549691115815" expanded="true" signature="248:470" ph="{...}" />
+                    <marker date="1549691115815" expanded="true" signature="283:367" ph="/* Set game time ... */" />
+                    <marker date="1549691115815" expanded="true" signature="411:464" ph="{...}" />
+                    <marker date="1549691115815" expanded="true" signature="503:932" ph="{...}" />
+                    <marker date="1549691115815" expanded="true" signature="668:757" ph="/* if(Application.loadedLevelName==&quot;Arcade&quot;) ... */" />
+                    <marker date="1549691115815" expanded="true" signature="884:929" ph="{...}" />
+                    <marker date="1549691115815" expanded="true" signature="949:1169" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/FruitDispenser.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="21" selection-start-line="21" selection-end-line="21" />
+                  <folding>
+                    <marker date="1549690859365" expanded="true" signature="0:161" ph="/* Converted from UnityScript to C## at http://www.M2H.nl/files/js_to_c.php - by Mike Hergaarden ... */" />
+                    <marker date="1549690859365" expanded="false" signature="169:207" ph="..." />
+                    <marker date="1549690859365" expanded="true" signature="671:762" ph="{...}" />
+                    <marker date="1549690859365" expanded="true" signature="777:1271" ph="{...}" />
+                    <marker date="1549690859365" expanded="true" signature="841:1268" ph="/* if (SharedSettings.LoadLevel==1) { ... */" />
+                    <marker date="1549690859365" expanded="true" signature="1288:1917" ph="{...}" />
+                    <marker date="1549690859365" expanded="true" signature="1290:1421" ph="/* Debug.Log(Physics.gravity.y); ... */" />
+                    <marker date="1549690859365" expanded="true" signature="1497:1530" ph="{...}" />
+                    <marker date="1549690859365" expanded="true" signature="1545:1914" ph="{...}" />
+                    <marker date="1549690859365" expanded="true" signature="1548:1730" ph="/* if (SharedSettings.LoadLevel==1) { ... */" />
+                    <marker date="1549690859365" expanded="true" signature="1764:1818" ph="{...}" />
+                    <marker date="1549690859365" expanded="true" signature="1784:1816" ph="{...}" />
+                    <marker date="1549690859365" expanded="true" signature="1819:1912" ph="/* if (SharedSettings.LoadLevel==4) { ... */" />
+                    <marker date="1549690859365" expanded="true" signature="1949:2953" ph="{...}" />
+                    <marker date="1549690859365" expanded="true" signature="2970:3351" ph="{...}" />
+                    <marker date="1549690859365" expanded="true" signature="3073:3095" ph="{...}" />
+                    <marker date="1549690859365" expanded="true" signature="3157:3178" ph="{...}" />
+                    <marker date="1549690859365" expanded="true" signature="3241:3264" ph="{...}" />
+                    <marker date="1549690859365" expanded="true" signature="3327:3349" ph="{...}" />
+                    <marker date="1549690859365" expanded="true" signature="3397:3439" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/Timer.js">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hit</find>
+      <find>NewGame</find>
+      <find>BlowObject</find>
+      <find>PauseTimer</find>
+      <find>PrepareRoutine</find>
+      <find>PrepareFrenzy</find>
+      <find>PrepareFreze</find>
+      <find>PlaySfx</find>
+      <find>Arcade</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/PrepareLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextGlow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/GUIRatioFix.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/FrenzyDispenser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/PlaneRotation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/Shake.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/Timer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/MouseControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/FruitDispenser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/EndLevelScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/StartSlice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/Rotate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextFadeOut.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/CreateOnDestroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/particlesDestroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/ButtonId.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/SharedSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/StartScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/GameGUI.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/particlesDestroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/Shake.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextGlow.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/ButtonId.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/SharedSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/CreateOnDestroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/Rotate.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/PlaneRotation.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/StartScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/StartSlice.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/FrenzyDispenser.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/FruitDispenser.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/PrepareLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/GameGUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/GUIRatioFix.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextFadeOut.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/MouseControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/EggSmasher/Scripts/EndLevelScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="978" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="EggSmasher" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="EggSmasher" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5816ef5b-e93a-4bed-bacc-90fa56639a3a" name="Default Changelist" comment="" />
+      <created>1548275563829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548275563829</updated>
+      <workItem from="1548275567651" duration="5480000" />
+      <workItem from="1549689378302" duration="2652000" />
+      <workItem from="1554497620837" duration="770000" />
+      <workItem from="1554512525711" duration="875000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9777000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="981" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/particlesDestroy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/particlesDestroy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/PrepareLevel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/S.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/Shake.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/Shake.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="86" selection-start-line="26" selection-start-column="86" selection-end-line="26" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/SharedSettings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextGlow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextColor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextGlow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/ButtonId.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/StartSlice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-692">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/StartScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/Rotate.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/CreateOnDestroy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/Rotate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/PlaneRotation.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/PlaneRotation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/StartScreen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="28" selection-start-line="8" selection-start-column="4" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/StartSlice.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/FrenzyDispenser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextColor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <marker date="1548448935553" expanded="true" signature="0:161" ph="/* Converted from UnityScript to C## at http://www.M2H.nl/files/js_to_c.php - by Mike Hergaarden ... */" />
+            <marker date="1548448935553" expanded="false" signature="169:207" ph="..." />
+            <marker date="1548448935553" expanded="true" signature="312:368" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/FruitDispenser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/SharedSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <marker date="1548449644513" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548449644513" expanded="true" signature="124:162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextFadeOut.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <marker date="1549691659905" expanded="true" signature="0:161" ph="/* Converted from UnityScript to C## at http://www.M2H.nl/files/js_to_c.php - by Mike Hergaarden ... */" />
+            <marker date="1549691659905" expanded="false" signature="169:207" ph="..." />
+            <marker date="1549691659905" expanded="true" signature="250:488" ph="{...}" />
+            <marker date="1549691659905" expanded="true" signature="324:486" ph="{...}" />
+            <marker date="1549691659905" expanded="true" signature="341:483" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/Timer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1549691058415" expanded="true" signature="0:161" ph="/* Converted from UnityScript to C## at http://www.M2H.nl/files/js_to_c.php - by Mike Hergaarden ... */" />
+            <marker date="1549691058415" expanded="false" signature="169:207" ph="..." />
+            <marker date="1549691058415" expanded="true" signature="639:686" ph="{...}" />
+            <marker date="1549691058415" expanded="true" signature="724:748" ph="{...}" />
+            <marker date="1549691058415" expanded="true" signature="775:1079" ph="{...}" />
+            <marker date="1549691058415" expanded="true" signature="1106:1164" ph="{...}" />
+            <marker date="1549691058415" expanded="true" signature="1182:1840" ph="{...}" />
+            <marker date="1549691058415" expanded="true" signature="1198:1259" ph="{...}" />
+            <marker date="1549691058415" expanded="true" signature="1273:1314" ph="{...}" />
+            <marker date="1549691058415" expanded="true" signature="1409:1569" ph="{...}" />
+            <marker date="1549691058415" expanded="true" signature="1470:1562" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/GameGUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <marker date="1549691592430" expanded="true" signature="0:161" ph="/* Converted from UnityScript to C## at http://www.M2H.nl/files/js_to_c.php - by Mike Hergaarden ... */" />
+            <marker date="1549691592430" expanded="false" signature="169:207" ph="..." />
+            <marker date="1549691592430" expanded="true" signature="457:530" ph="{...}" />
+            <marker date="1549691592430" expanded="true" signature="490:528" ph="{...}" />
+            <marker date="1549691592430" expanded="true" signature="552:698" ph="{...}" />
+            <marker date="1549691592430" expanded="true" signature="714:2440" ph="{...}" />
+            <marker date="1549691592430" expanded="true" signature="752:2219" ph="{...}" />
+            <marker date="1549691592430" expanded="true" signature="858:2216" ph="{...}" />
+            <marker date="1549691592430" expanded="true" signature="918:2212" ph="{...}" />
+            <marker date="1549691592430" expanded="true" signature="1025:1301" ph="{...}" />
+            <marker date="1549691592430" expanded="true" signature="1037:1135" ph="/* GameObject.Find(&quot;FruitDispenser&quot;).GetComponent&lt;BoxCollider&gt;().active=false; ... */" />
+            <marker date="1549691592430" expanded="true" signature="1334:1749" ph="{...}" />
+            <marker date="1549691592430" expanded="true" signature="1539:1589" ph="{...}" />
+            <marker date="1549691592430" expanded="true" signature="1789:1949" ph="{...}" />
+            <marker date="1549691592430" expanded="true" signature="1982:2197" ph="{...}" />
+            <marker date="1549691592430" expanded="true" signature="2024:2074" ph="{...}" />
+            <marker date="1549691592430" expanded="true" signature="2259:2438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/GUIRatioFix.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <marker date="1549691631753" expanded="false" signature="6:44" ph="..." />
+            <marker date="1549691631753" expanded="true" signature="157:339" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/TextFadeOut.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/MouseControl.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/PrepareLevel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <marker date="1549691115815" expanded="false" signature="6:44" ph="..." />
+            <marker date="1549691115815" expanded="true" signature="248:470" ph="{...}" />
+            <marker date="1549691115815" expanded="true" signature="283:367" ph="/* Set game time ... */" />
+            <marker date="1549691115815" expanded="true" signature="411:464" ph="{...}" />
+            <marker date="1549691115815" expanded="true" signature="503:932" ph="{...}" />
+            <marker date="1549691115815" expanded="true" signature="668:757" ph="/* if(Application.loadedLevelName==&quot;Arcade&quot;) ... */" />
+            <marker date="1549691115815" expanded="true" signature="884:929" ph="{...}" />
+            <marker date="1549691115815" expanded="true" signature="949:1169" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/FruitDispenser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1549690859365" expanded="true" signature="0:161" ph="/* Converted from UnityScript to C## at http://www.M2H.nl/files/js_to_c.php - by Mike Hergaarden ... */" />
+            <marker date="1549690859365" expanded="false" signature="169:207" ph="..." />
+            <marker date="1549690859365" expanded="true" signature="671:762" ph="{...}" />
+            <marker date="1549690859365" expanded="true" signature="777:1271" ph="{...}" />
+            <marker date="1549690859365" expanded="true" signature="841:1268" ph="/* if (SharedSettings.LoadLevel==1) { ... */" />
+            <marker date="1549690859365" expanded="true" signature="1288:1917" ph="{...}" />
+            <marker date="1549690859365" expanded="true" signature="1290:1421" ph="/* Debug.Log(Physics.gravity.y); ... */" />
+            <marker date="1549690859365" expanded="true" signature="1497:1530" ph="{...}" />
+            <marker date="1549690859365" expanded="true" signature="1545:1914" ph="{...}" />
+            <marker date="1549690859365" expanded="true" signature="1548:1730" ph="/* if (SharedSettings.LoadLevel==1) { ... */" />
+            <marker date="1549690859365" expanded="true" signature="1764:1818" ph="{...}" />
+            <marker date="1549690859365" expanded="true" signature="1784:1816" ph="{...}" />
+            <marker date="1549690859365" expanded="true" signature="1819:1912" ph="/* if (SharedSettings.LoadLevel==4) { ... */" />
+            <marker date="1549690859365" expanded="true" signature="1949:2953" ph="{...}" />
+            <marker date="1549690859365" expanded="true" signature="2970:3351" ph="{...}" />
+            <marker date="1549690859365" expanded="true" signature="3073:3095" ph="{...}" />
+            <marker date="1549690859365" expanded="true" signature="3157:3178" ph="{...}" />
+            <marker date="1549690859365" expanded="true" signature="3241:3264" ph="{...}" />
+            <marker date="1549690859365" expanded="true" signature="3327:3349" ph="{...}" />
+            <marker date="1549690859365" expanded="true" signature="3397:3439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/Timer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/3r.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/EndLevelScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <marker date="1554512879268" expanded="false" signature="6:44" ph="..." />
+            <marker date="1554512879268" expanded="true" signature="89:3310" ph="{...}" />
+            <marker date="1554512879268" expanded="true" signature="474:573" ph="{...}" />
+            <marker date="1554512879268" expanded="true" signature="595:3096" ph="{...}" />
+            <marker date="1554512879268" expanded="true" signature="711:2369" ph="{...}" />
+            <marker date="1554512879268" expanded="true" signature="719:922" ph="/* PlayerPrefs.SetInt(&quot;highScore&quot;, 0); ... */" />
+            <marker date="1554512879268" expanded="true" signature="1160:1513" ph="{...}" />
+            <marker date="1554512879268" expanded="true" signature="1564:1846" ph="{...}" />
+            <marker date="1554512879268" expanded="true" signature="2045:2199" ph="{...}" />
+            <marker date="1554512879268" expanded="true" signature="2203:2361" ph="/* GetComponent&lt;Frenzy&gt;().enabled = false; ... */" />
+            <marker date="1554512879268" expanded="true" signature="2396:3093" ph="{...}" />
+            <marker date="1554512879268" expanded="true" signature="2435:3089" ph="{...}" />
+            <marker date="1554512879268" expanded="true" signature="2549:3084" ph="{...}" />
+            <marker date="1554512879268" expanded="true" signature="2613:2697" ph="{...}" />
+            <marker date="1554512879268" expanded="true" signature="2732:2895" ph="{...}" />
+            <marker date="1554512879268" expanded="true" signature="2929:3078" ph="{...}" />
+            <marker date="1554512879268" expanded="true" signature="3006:3061" ph="/* Time.timeScale=1; ... */" />
+            <marker date="1554512879268" expanded="true" signature="3128:3307" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EggSmasher/Scripts/MouseControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+          <folding>
+            <marker date="1554499951232" expanded="true" signature="0:161" ph="/* Converted from UnityScript to C## at http://www.M2H.nl/files/js_to_c.php - by Mike Hergaarden ... */" />
+            <marker date="1554499951232" expanded="false" signature="169:207" ph="..." />
+            <marker date="1554499951232" expanded="true" signature="251:9789" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="253:455" ph="/* control by mouse - can be easly translate to control by touch etc ... */" />
+            <marker date="1554499951232" expanded="true" signature="1548:1643" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="1553:1641" ph="/* textmeshnew=this.GetComponent&lt;&quot;EasyFontTextMesh&quot;&gt;(); ... */" />
+            <marker date="1554499951232" expanded="true" signature="1658:1924" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="1787:1922" ph="/* PlayerPrefs.SetInt(&quot;highscoreCurrent&quot;, best); ... */" />
+            <marker date="1554499951232" expanded="true" signature="1955:2279" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="2308:2539" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="2593:5128" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="2653:4800" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="3606:3658" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="3705:3758" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="3760:3931" ph="/* if bomb inc points ... */" />
+            <marker date="1554499951232" expanded="true" signature="3979:4301" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="4080:4273" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="4320:4768" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="4377:4453" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="4508:4752" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="4877:4921" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="5000:5043" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="5206:5310" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="5260:5307" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="5376:5694" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="5395:5552" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="5741:5920" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="5955:7669" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="6001:6164" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="6209:6675" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="6467:6508" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="6548:6620" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="6765:7375" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="6800:7367" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="6847:7362" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="7281:7325" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="7502:7567" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="7686:9626" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="7688:8460" ph="/* if(shake_intensity &gt; 0) ... */" />
+            <marker date="1554499951232" expanded="true" signature="8575:8657" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="8707:8790" ph="{...}" />
+            <marker date="1554499951232" expanded="true" signature="9628:9787" ph="/* void  Shake (){ ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

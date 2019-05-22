@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="32.EggSmasher(new)-csharp.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor-vs.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass-vs.csproj" t="IncludeRecursive" />
+      <e p="Assets/EasyFont" t="Include">
+        <e p="Editor" t="Include">
+          <e p="EasyFontCustomEditor.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="EasyFontDetail.shader" t="Include" />
+        </e>
+      </e>
+      <e p="Assets/JMO Assets" t="Include">
+        <e p="Cartoon FX" t="Include">
+          <e p="Shaders (Mobile)" t="Include">
+            <e p="CFXM_MobileParticleAdd_Alpha8.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assets/Plugins" t="Include">
+        <e p="EasyFontTextMesh.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_32.EggSmasher(new)-csharp.-1655316651.00" t="ExcludeRecursive" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\AntNamKineticMind\AntNam\Assets\InputManager.cs">
+    <Files>
+      <File FileName="Assets\EggSmasher\Scripts\CreateOnDestroy.js" Line="22" Column="2" />
+      <File FileName="..\..\AntNamKineticMind\AntNam\Assets\InputManager.cs" Line="147" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
